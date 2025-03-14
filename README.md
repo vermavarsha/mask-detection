@@ -1,6 +1,7 @@
 # mask-detection
 
 This project focuses on detecting whether a person is wearing a mask or not using deep learning. The model was trained on a dataset of masked and unmasked faces and later converted to TensorFlow Lite (TFLite) for lightweight deployment.
+
 Dataset Details
 Dataset Used: A collection of images containing individuals with and without masks.
 Preprocessing Steps:
